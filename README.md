@@ -1,7 +1,7 @@
 # Tip Calculator
 Simple starter ios app for calculating tip<br>
 #### Features completed
-- selected tip amount is saved as default tip amount 
+- selected tip amount is saved and displayed as default tip amount 
 
 #### Features to be developed:
 - animated text 
